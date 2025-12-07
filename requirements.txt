@@ -1,0 +1,17 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+ langchain-text-splitters
+ faiss-cpu
+ langchain-chroma
+ langchain-huggingface
+ arxiv
+ wikipedia
+langgraph
+langchainhub
+SQLAlchemy
+mysql-connector-python.

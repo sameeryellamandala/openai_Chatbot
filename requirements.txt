@@ -14,4 +14,4 @@ langchain-groq
 langgraph
 langchainhub
 SQLAlchemy
-mysql-connector-python.
+mysql-connector-python
